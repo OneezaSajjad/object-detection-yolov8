@@ -1,2 +1,2 @@
-# object-detection-yolov8
-Object Detection with YOLOv8 | Self-Driving Car Project 
+# object-detection-yolov5
+Object Detection with YOLOv5 | Self-Driving Car Project 
