@@ -1,0 +1,28 @@
+classes:
+- airplane
+- animal
+- bike
+- bus
+- car
+- chair
+- human
+- human and bike
+- kite
+- motorbike
+- person
+- road
+- sign
+- sky
+- traffic light
+- tree
+- truck
+nc: 17
+roboflow:
+  license: CC BY 4.0
+  project: self-driving-dataset-d9cya
+  url: https://universe.roboflow.com/dataset1-fqk5m/self-driving-dataset-d9cya/dataset/2
+  version: 2
+  workspace: dataset1-fqk5m
+test: data/images/test
+train: data/images/train
+val: data/images/val
